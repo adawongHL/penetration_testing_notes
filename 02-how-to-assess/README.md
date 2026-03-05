@@ -1,5 +1,5 @@
 # RECON, aka info gathering
-TLDR: SCOPE -> PASSIVE RECON -> ACTIVE RECON
+🎯 TLDR: SCOPE -> PASSIVE RECON -> ACTIVE RECON
 
 ## Table of Contents
 - [01. 'scope' the target](#01-scope-the-target)
